@@ -2,6 +2,7 @@
 
 ob_start();
 
+//changes
 session_start();
 
 if(!isset($_SESSION['secretcode'])) {
